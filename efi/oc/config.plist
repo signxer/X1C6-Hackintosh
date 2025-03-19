@@ -1052,7 +1052,7 @@
                     <key>Comment</key>
                     <string>V1.4.2 | Synaptics SMBUS touchpad support</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/VoodooRMI</string>
                     <key>MaxKernel</key>
@@ -1088,7 +1088,7 @@
                     <key>Comment</key>
                     <string>V1.0 | Support for Synaptics SMBUS touchpad input</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/RMISMBus</string>
                     <key>MaxKernel</key>
@@ -1142,7 +1142,7 @@
                     <key>Comment</key>
                     <string>V2.3.7 | PS2 Trackpad Support</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/VoodooPS2Trackpad</string>
                     <key>MaxKernel</key>
@@ -1160,7 +1160,7 @@
                     <key>Comment</key>
                     <string>V2.3.7 | PS2 Mouse Support</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/VoodooPS2Mouse</string>
                     <key>MaxKernel</key>

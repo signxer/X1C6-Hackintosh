@@ -1,5 +1,11 @@
 # ThinkPad X1 Carbon 6th Gen (Model 20KG) Hackintosh Configuration
 
+**Acknowledgements:**  
+Special thanks to [tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh) for providing configurations, from which most implementation details were adapted.
+
+**特别感谢:**  
+感谢 [tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh) 项目提供的配置方案，本仓库大部分实现基于此项目进行适配调整。
+
 **Tested Version:** 
 macOS Sequoia (15.3.2, build 24D81)
 

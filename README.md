@@ -6,6 +6,7 @@
 **Hardware Modifications:**
 - Replaced original WiFi/BT card with Intel AX210 
 - Replaced original SSD to WD SN350
+
 **硬件改动说明:**
 - 无线网卡已更换为 Intel AX210
 - 原装SSD已替换为 WD SN350

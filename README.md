@@ -1,7 +1,10 @@
 # ThinkPad X1 Carbon 6th Gen (Model 20KG) Hackintosh Configuration
 
-**Tested Version:** macOS Sequoia (15.3.2, build 24D81)
-**已验证版本：** macOS Sequoia (15.3.2, 版本号 24D81)
+**Tested Version:** 
+macOS Sequoia (15.3.2, build 24D81)
+
+**已验证版本：** 
+macOS Sequoia (15.3.2, 版本号 24D81)
 
 **Hardware Modifications:**
 - Replaced original WiFi/BT card with Intel AX210 
